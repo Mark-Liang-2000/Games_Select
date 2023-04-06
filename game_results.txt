@@ -1,0 +1,68 @@
+Game Results
+You: s, Opponent: s, Result: Tie
+Game Results
+You: p, Opponent: r, Result: p wins!
+You: r, Opponent: r, Result: Tie
+Game Results
+You: p, Opponent: p, Result: Tie
+Game Results
+You: r, Opponent: s, Result: r wins!
+You: s, Opponent: r, Result: r wins!
+You: s, Opponent: r, Result: r wins!
+You: s, Opponent: s, Result: Tie
+You: s, Opponent: p, Result: s wins!
+You: s, Opponent: p, Result: s wins!
+You: s, Opponent: p, Result: s wins!
+You: r, Opponent: r, Result: Tie
+You: s, Opponent: r, Result: r wins!
+Game Results
+You: r, Opponent: s, Result: r wins!
+Game Results
+You: p, Opponent: p, Result: Tie
+You: s, Opponent: s, Result: Tie
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: r, Result: Tie
+You: r, Opponent: s, Result: r wins!
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: r, Result: Tie
+You: r, Opponent: s, Result: r wins!
+Game Results
+You: r, Opponent: p, Result: p wins!
+Rock Paper Scissor's Session Results
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: r, Result: Tie
+You: r, Opponent: s, Result: r wins!
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: r, Result: Tie
+You: r, Opponent: s, Result: r wins!
+You: r, Opponent: r, Result: Tie
+You: r, Opponent: s, Result: r wins!
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: p, Result: p wins!
+You: r, Opponent: r, Result: Tie
+You: r, Opponent: r, Result: Tie
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+Rock Paper Scissor's Session Results
+You: r, Opponent: s, Result: r wins!
+Target Number: 66, Tries: 7
+Target Number: 92, Tries: 9
+Target Number: 11, Tries: 15
+Target Number: 13, Tries: 11
+Rock Paper Scissor's Session Results
+You: r, Opponent: s, Result: r wins!
+Target Number: 21, Tries: 15
